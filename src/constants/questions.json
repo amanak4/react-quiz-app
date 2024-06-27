@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which of the following is used in React.js to increase performance?",
+    "answerOptions": [
+      {"text": "Virtual DOM", "isCorrect": true},
+      {"text": "Original DOM", "isCorrect": false},
+      {"text": "Both A and B", "isCorrect": false},
+      {"text": "None of the above", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is ReactJS?",
+    "answerOptions": [
+      {"text": "Server-side framework", "isCorrect": false},
+      {"text": "User Interface framework", "isCorrect": true},
+      {"text": "both a and b", "isCorrect": false},
+      {"text": "None of the above", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Identify the one which is used to pass data to components from outside",
+    "answerOptions": [
+      {"text": "Render with arguments", "isCorrect": false},
+      {"text": "setState", "isCorrect": false},
+      {"text": "PropTypes", "isCorrect": false},
+      {"text": "props", "isCorrect": true}
+    ]
+  },
+  {
+    "question": "In which language is React.js written?",
+    "answerOptions": [
+      {"text": "Python", "isCorrect": false},
+      {"text": "Java", "isCorrect": false},
+      {"text": "C#", "isCorrect": false},
+      {"text": "JavaScript", "isCorrect": true}
+    ]
+  },
+  {
+    "question": "What is Babel?",
+    "answerOptions": [
+      {"text": "JavaScript interpreter", "isCorrect": false},
+      {"text": "JavaScript transpiler", "isCorrect": false},
+      {"text": "JavaScript compiler", "isCorrect": true},
+      {"text": "None of the above", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the purpose of the useState hook in React?",
+    "answerOptions": [
+      {"text": "To manage state in a functional component", "isCorrect": true},
+      {"text": "To perform side effects in a functional component", "isCorrect": false},
+      {"text": "To create a class component", "isCorrect": false},
+      {"text": "To handle events in a functional component", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Which method in a React class component is used to handle side effects?",
+    "answerOptions": [
+      {"text": "componentDidMount", "isCorrect": true},
+      {"text": "render", "isCorrect": false},
+      {"text": "constructor", "isCorrect": false},
+      {"text": "getDerivedStateFromProps", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What does JSX stand for?",
+    "answerOptions": [
+      {"text": "JavaScript XML", "isCorrect": true},
+      {"text": "JavaScript Syntax Extension", "isCorrect": false},
+      {"text": "Java Standard XML", "isCorrect": false},
+      {"text": "JavaScript Extended Syntax", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "How can you prevent a component from re-rendering in React?",
+    "answerOptions": [
+      {"text": "Using shouldComponentUpdate", "isCorrect": true},
+      {"text": "Using componentDidUpdate", "isCorrect": false},
+      {"text": "Using render", "isCorrect": false},
+      {"text": "Using componentWillUnmount", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the use of the useEffect hook in React?",
+    "answerOptions": [
+      {"text": "To manage side effects in a functional component", "isCorrect": true},
+      {"text": "To manage state in a functional component", "isCorrect": false},
+      {"text": "To create a class component", "isCorrect": false},
+      {"text": "To handle events in a functional component", "isCorrect": false}
+    ]
+  }
+]
